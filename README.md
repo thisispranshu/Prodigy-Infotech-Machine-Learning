@@ -1,6 +1,6 @@
 # Prodigy-Infotech-Machine-Learning
 
-I, Pranshu Joshi as an intern at Prodigy Infotech of Machine Learning made the following 5 ML Models from scratch.
+I, Pranshu Joshi as an intern at Prodigy Infotech of Machine Learning made the following 5 ML Models from scratch; the period of Internship was from 1 June, 2024 to 1 July, 2024.
 
 Here is the list of Tasks for ML, so navigate to the ML Section of the Canva PPT:
 https://www.canva.com/design/DAFpRxy47kU/w9nxlJ4_CSLwekIRa0ttbg/view#16
